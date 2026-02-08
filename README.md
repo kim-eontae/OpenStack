@@ -1,6 +1,6 @@
 # OpenStack Caracal (2024.1) 설치 가이드
 
-이 저장소는 Notion에 정리된 **OpenStack 2024.1 Caracal** 설치/운영 내용을 **GitHub README + docs 구조**로 재정리한 문서입니다.
+이 저장소는 **OpenStack 2024.1 Caracal** 설치/운영 내용을 **GitHub README + docs 구조**로 재정리한 문서입니다.
 
 - 대상 OS: **Ubuntu 기반**
 - 작업 권한 원칙: **패키지/시스템 작업은 root**, **유저/룰/서비스/엔드포인트 생성은 일반 사용자**
